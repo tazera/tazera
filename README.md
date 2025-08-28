@@ -3,7 +3,7 @@
 * Software Engineer
 * Based in: Bulgaria
 * Contact: `lyubomir.tsvetkov141@gmai<guess-this-letter>.com`
-* About me: I love animals (especially my pup), working out, and getting lost in interesting books
+* About me: I love animals (especially my small dog), working out, and getting lost in interesting books
 
 <p>
   <a href="https://www.linkedin.com/in/lyubomir-tsvetkov-7b0026162/" target="_blank">
