@@ -6,7 +6,7 @@ A Software Engineer.
   <a href="https://www.linkedin.com/in/lyubomir-tsvetkov-7b0026162/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
-  <a href=""mailto:lyubomir.tsvetkov141@gmail.com" target="_blank">
+ <a href="mailto:lyubomir.tsvetkov141@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
   </a>
 </p>
