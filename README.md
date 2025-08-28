@@ -1,35 +1,16 @@
-# 💻 Lyubomir Tsvetkov
+👋 Hello there, I'm Lyubomir
 
-A Software Engineer.
+* Software Engineer
+* Based in: Bulgaria
+* Contact: `lyubomir.tsvetkov141@gmai<guess-this-letter>.com`
+* About me: I love animals (especially my pup), working out, and getting lost in interesting books
 
 <p>
   <a href="https://www.linkedin.com/in/lyubomir-tsvetkov-7b0026162/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn">
   </a>
- <a href="mailto:lyubomir.tsvetkov141@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+  &nbsp;
+  <a href="mailto:lyubomir.tsvetkov141@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail">
   </a>
 </p>
-
-<!-- Optional extras:
-- A short tech stack line
-- A projects grid (links to your pinned repos)
-- GitHub stats cards if you like that style
--->
-
-
-
-<!--
-**tazera/tazera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
